@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-accounts:
+plusminus:
   message: "Hey, welcome to PlusMinus Dev related webhook APIs"
   contactDetails:
     name: "Abhishek Rai - Developer"
