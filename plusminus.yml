@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Hey, welcome to PlusMinus Dev related webhook APIs"
+  contactDetails:
+    name: "Abhishek Rai - Developer"
+    email: "abrai@gmail.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
