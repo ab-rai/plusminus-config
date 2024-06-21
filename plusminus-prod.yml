@@ -5,7 +5,7 @@ plusminus:
   message: "Hey, welcome to PlusMinus Prod related webhook APIs"
   contactDetails:
     name: "Abhishek Rai - Product Owner"
-    email: "ab@gmail.com"
+    email: "{cipher}(63e3471fd2100550dc061ec7829c3ff9e58bcd62fd59a0f9d0031d69e6617c81)"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
